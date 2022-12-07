@@ -1,2 +1,1 @@
-# Countdown.github.io
-CountdownApp
+ https://nihantelli.github.io/Countdown.github.io/
